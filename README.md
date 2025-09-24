@@ -1,4 +1,4 @@
-# Student Records and Course System (SRCS) 🎓
+# Campus Course & Records Manager (CCRM)🎓
 
 This is a Complete Java console project designed to handle basic student, course, enrollment, and grade records for a college or university.
 
@@ -81,4 +81,5 @@ Once the program is running, you will see a console menu. From there, you can pe
 * Enter grades for enrolled students and check their GPA.
 * Print a student's academic transcript.
 * Export data to a CSV file or import data from one.
+
 * Perform a system-wide data backup or restore from a previous backup.
